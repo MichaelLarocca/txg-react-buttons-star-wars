@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Creating Reusable React Buttons with Props.Children </h1>
+        <h1>Creating Reusable React Buttons with Props.Children</h1>
       </header>
       <main>
         <div>
