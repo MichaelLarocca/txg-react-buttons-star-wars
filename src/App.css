@@ -68,6 +68,11 @@ button > svg {
 }
 
 @media (max-width: 500px) {
+  main {
+    height: 300px;
+    width: 0;
+  }
+
   .sw-button {
     display: flex;
   }
