@@ -14,6 +14,11 @@ body {
   background-color: whitesmoke;
 }
 
+h1 {
+  font-family: sans-serif;
+  text-shadow: 1px 1px 1px #feda4a;
+}
+
 main {
   height: 300px;
   width: 1000px;
