@@ -66,3 +66,9 @@ button > svg {
   color: #000;
   outline-color: yellow;
 }
+
+@media (max-width: 400px) {
+  .sw-button {
+    display: flex;
+  }
+}
